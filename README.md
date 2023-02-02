@@ -1,2 +1,2 @@
 # Simply-worship
-This is a sub created webpsge for swim..
+This is a sub created webpage for swim..
